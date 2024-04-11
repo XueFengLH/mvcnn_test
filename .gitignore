@@ -1,0 +1,22 @@
+# Folders
+__pycache__/
+build/
+img/
+img_reults/
+img_reults_1/
+imgs/
+modelnet40_images_new_12x/
+mvcnn_stage_2/
+mvcnn_stage_1/
+*.egg-info
+
+
+# Files
+*.weights
+*.t7
+*.mp4
+*.avi
+*.so
+*.txt
+*.png
+*.jpg
